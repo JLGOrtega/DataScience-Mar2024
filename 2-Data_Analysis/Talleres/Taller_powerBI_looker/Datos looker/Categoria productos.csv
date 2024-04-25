@@ -1,0 +1,84 @@
+﻿Categoria,ID_Categoria,Subcategoria,ID_Subcategoria
+TV y Sonido,TVS,Televisores inteligentes,TVSA
+TV y Sonido,TVS,Televisores 4K,TVSB
+TV y Sonido,TVS,Televisores OLED,TVSC
+TV y Sonido,TVS,Televisores LED,TVSD
+TV y Sonido,TVS,Televisores QLED,TVSE
+TV y Sonido,TVS,Sistemas de Home Theater,TVSF
+TV y Sonido,TVS,Barras de sonido,TVSG
+TV y Sonido,TVS,Altavoces,TVSH
+TV y Sonido,TVS,Proyectores,TVSJ
+TV y Sonido,TVS,Accesorios de Home Theater,TVSK
+Audio,AUD,Audífonos,AUDA
+Audio,AUD,Auriculares,AUDB
+Audio,AUD,Altavoces,AUDC
+Audio,AUD,Receptores,AUDD
+Audio,AUD,Tocadiscos,AUDE
+Audio,AUD,Instrumentos musicales,AUDF
+Audio,AUD,Equipo de DJ,AUDG
+Electrónica para automóviles y GPS,EAG,Estéreos para automóviles,EAGA
+Electrónica para automóviles y GPS,EAG,Altavoces,EAGB
+Electrónica para automóviles y GPS,EAG,Cámaras de tablero (dashcams),EAGC
+Electrónica para automóviles y GPS,EAG,Unidades de GPS,EAGD
+Cámaras,CAM,Cámaras digitales,CAMB
+Cámaras,CAM,Cámaras sin espejo,CAMC
+Cámaras,CAM,Cámaras réflex digitales,CAMD
+Cámaras,CAM,Cámaras de acción,CAME
+Cámaras,CAM,Drones,CAMF
+Cámaras,CAM,Accesorios para cámaras,CAMG
+Computadoras y tabletas,PCT,Computadoras de escritorio,PCTA
+Computadoras y tabletas,PCT,Laptops,PCTB
+Computadoras y tabletas,PCT,Tabletas,PCTC
+Computadoras y tabletas,PCT,Monitores,PCTD
+Computadoras y tabletas,PCT,Impresoras,PCTE
+Computadoras y tabletas,PCT,Escáneres,PCTF
+Computadoras y tabletas,PCT,Equipo de redes,PCTG
+Películas y música,PMU,Blu-rays,PMUA
+Películas y música,PMU,DVDs,PMUB
+Películas y música,PMU,CDs,PMUC
+Películas y música,PMU,Discos de vinilo,PMUD
+Películas y música,PMU,Películas y programas de televisión,PMUE
+Películas y música,PMU,Música,PMUF
+Videojuegos,VJG,Consolas,VJGA
+Videojuegos,VJG,Juegos,VJGB
+Videojuegos,VJG,Accesorios,VJGC
+Teléfonos celulares,TCL,Smartphones,TCLA
+Teléfonos celulares,TCL,Planes de telefonía celular,TCLB
+Teléfonos celulares,TCL,Accesorios para teléfonos celulares,TCLC
+Electrodomésticos,ELE,Refrigeradores,ELEA
+Electrodomésticos,ELE,Lavaplatos,ELEB
+Electrodomésticos,ELE,Lavadoras y secadoras,ELEC
+Electrodomésticos,ELE,Microondas,ELED
+Electrodomésticos,ELE,Estufas,ELEE
+Electrodomésticos,ELE,Acondicionadores de aire,ELEF
+Electrodomésticos,ELE,Aspiradoras,ELEG
+Electrodomésticos,ELE,Electrodomésticos pequeños,ELEH
+Tarjetas de regalo,GFT,Tarjetas de regalo Tiendas Propias,GFTA
+Tarjetas de regalo,GFT,Tarjetas de regalo de terceros,GFTB
+Servicios,SVS,Planes de protección y Garantías,SVSA
+Servicios,SVS,Servicios de reparación,SVSB
+Servicios,SVS,Servicios de instalación,SVSC
+Vida al aire libre,VAL,Parrillas,VALA
+Vida al aire libre,VAL,Jardín y césped,VALB
+Vida al aire libre,VAL,Altavoces portátiles,VALC
+Vida al aire libre,VAL,Iluminación inteligente,VALD
+Salud,SAL,Rastreadores de fitness,SALA
+Salud,SAL,Relojes inteligentes,SALB
+Salud,SAL,Audífonos,SALC
+Salud,SAL,Equipo de ejercicio,SALD
+Transporte eléctrico,TRE,Bicicletas eléctricas,TREA
+Transporte eléctrico,TRE,Scooters eléctricos,TREB
+Transporte eléctrico,TRE,Monopatines eléctricos,TREC
+Juguetes,JUG,Juguetes,JUGA
+Juguetes,JUG,Juegos,JUGB
+Juguetes,JUG,Coleccionables,JUGC
+Hogar inteligente,HIN,Altavoces inteligentes,HINA
+Hogar inteligente,HIN,Termostatos inteligentes,HINB
+Hogar inteligente,HIN,Luces inteligentes,HINC
+Hogar inteligente,HIN,Seguridad inteligente,HIND
+Deportes,DEP,Artículos deportivos,DEPA
+Deportes,DEP,Equipo de fitness,DEPB
+Deportes,DEP,Juguetes y juegos,DEPC
+Hogar,HOG,Muebles,HOGA
+Hogar,HOG,Suministros de oficina,HOGB
+Hogar,HOG,Colchones,HOGC
