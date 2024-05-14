@@ -16,11 +16,11 @@ def pinta_distribucion_categoricas(df, columnas_categoricas, relativa=False, mos
         if relativa:
             total = df[col].value_counts().sum()
             serie = df[col].value_counts().apply(lambda x: x / total)
-            sns.barplot(x=serie.index, y=serie, ax=ax, palette='viridis', color = serie.index)
+            sns.barplot(x=serie.index, y=serie, ax=ax, palette='viridis', hue = serie.index)
             ax.set_ylabel('Frecuencia Relativa')
         else:
             serie = df[col].value_counts()
-            sns.barplot(x=serie.index, y=serie, ax=ax, palette='viridis', color = serie.index)
+            sns.barplot(x=serie.index, y=serie, ax=ax, palette='viridis', hue = serie.index)
             ax.set_ylabel('Frecuencia')
 
         ax.set_title(f'Distribución de {col}')
